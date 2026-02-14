@@ -30,46 +30,4 @@
 
 <script src="script.js"></script>
 </body>
-</html>
-body {
-  font-family: Tahoma;
-  background: #111;
-  color: #fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
 
-.gold-box {
-  background: #1c1c1c;
-  padding: 30px;
-  border-radius: 12px;
-  width: 320px;
-  text-align: center;
-}
-
-h1 {
-  color: gold;
-  margin-bottom: 20px;
-}
-
-.card {
-  background: #000;
-  padding: 15px;
-  margin: 10px 0;
-  border-radius: 8px;
-  display: flex;
-  justify-content: space-between;
-  font-size: 18px;
-}
-
-strong {
-  color: gold;
-}
-
-.time {
-  margin-top: 15px;
-  font-size: 12px;
-  color: #aaa;
-}
